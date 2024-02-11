@@ -1,3 +1,14 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    }
+
 .container {
     margin: auto 20px;
+}
+
+.header-logo {
+    font-size: 74.76px;
+    font-weight: 800;
+    margin-top: 20.79px;
+    text-align: center;
 }
