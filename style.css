@@ -12,3 +12,26 @@ body {
     margin-top: 20.79px;
     text-align: center;
 }
+
+.header-title {
+    font-size: 74.76px;
+    font-weight: 300;
+    line-height: 89.2%;
+    width: 878.71px;
+    margin-bottom: 20px;
+    margin-top: 150px;
+}
+
+.header-btn a {
+    font-weight: 800;
+    font-size: 39.78px;
+    line-height: 35.48px;
+    color: black;
+    padding: 10px 15px;
+    padding-top: 5px;
+    padding-bottom: 12px;
+    background-color: white;
+    text-decoration: none;
+    border: 6px black solid;
+    border-radius: 12px;
+} 
