@@ -13,6 +13,10 @@ body {
     text-align: center;
 }
 
+.header-inner {
+    display: flex;
+}
+
 .header-title {
     font-size: 74.76px;
     font-weight: 300;
@@ -35,3 +39,19 @@ body {
     border: 6px black solid;
     border-radius: 12px;
 } 
+.iphone-1 {
+    height: 476px;
+    width: 436px;
+    position: absolute;
+    z-index: 2;
+    right: 48px;
+    bottom: 99px;
+}
+
+.iphone-2 {
+    height: 507px;
+    width: 268px;
+    position: absolute;
+    z-index: 1;
+    right: 20px;
+}
